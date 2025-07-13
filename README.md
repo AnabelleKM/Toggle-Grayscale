@@ -12,3 +12,5 @@ OR assign a keyboard shortcut, go to menu Edit --> Keyboard shortcuts --> Search
 
 ![](Example_images/01_Example.jpg)
 ![](Example_images/02_Example.jpg)
+![](Example_images/03_Example.jpg)
+![](Example_images/04_Example.jpg)

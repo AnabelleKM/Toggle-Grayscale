@@ -2,7 +2,7 @@ A quick way to check color values for contrast in Aseprite (tested with version 
 
 Installation:
 1) Go to menu Edit --> Preferences --> Extensions
-2) Click 'Add Extension' and choose the ToggleGrayscale.zip
+2) Click 'Add Extension' and choose the downloaded ToggleGrayscale.zip
 3) Restart Aseprite
 
 Usage:

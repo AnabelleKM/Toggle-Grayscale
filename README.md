@@ -10,4 +10,5 @@ Usage:
 OR assign a keyboard shortcut, go to menu Edit --> Keyboard shortcuts --> Search for 'Toggle Grayscale' and assign e.g. key 'Y'
 
 
-https://github.com/AnabelleKM/Toggle-Grayscale/blob/main/Example_images/01_Example.jpg?raw=true
+![] (/Example_images/01_Example.jpg)
+![] (/Example_images/02_Example.jpg)

@@ -8,3 +8,6 @@ Installation:
 Usage:
 1) Under menu Sprite -> Toggle Grayscale
 OR assign a keyboard shortcut, go to menu Edit --> Keyboard shortcuts --> Search for 'Toggle Grayscale' and assign e.g. key 'Y'
+
+
+https://github.com/AnabelleKM/Toggle-Grayscale/blob/main/Example_images/01_Example.jpg?raw=true

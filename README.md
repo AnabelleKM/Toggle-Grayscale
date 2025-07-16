@@ -1,13 +1,16 @@
-A quick way to check color values for contrast in Aseprite (tested with version 1.3.14.3)
+A quick way to check color contrast in Aseprite (this extension is tested with version 1.3.14.3)
 
-Installation:
+This extension inserts and removes a 'black layer with blendmode COLOR' over your entire timeline. Something you could do yourself.
+But isn't it much quicker to just press one key? :-)
+
+Easy Installation:
 1) Go to menu Edit --> Preferences --> Extensions
 2) Click 'Add Extension' and choose the downloaded ToggleGrayscale.zip
 3) Restart Aseprite
 
 Usage:
-1) Under menu Sprite -> Toggle Grayscale
-OR assign a keyboard shortcut, go to menu Edit --> Keyboard shortcuts --> Search for 'Toggle Grayscale' and assign e.g. key 'Y'
+1) Under menu Sprite -> 'Toggle Grayscale'
+2) Or assign a keyboard shortcut. Go to menu Edit --> Keyboard shortcuts --> Search for 'Toggle Grayscale' and assign e.g. key 'Y'
 
 
 ![](Example_images/01_Example.jpg)

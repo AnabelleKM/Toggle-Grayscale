@@ -1,7 +1,10 @@
 A quick way to check color contrast in Aseprite (this extension is tested with version 1.3.14.3)
 
-This extension inserts and removes a 'black layer with blendmode COLOR' over your entire timeline. Something you could do yourself.
-But isn't it much quicker to just press one key? :-)
+This extension inserts and removes a 'black layer with blendmode COLOR' over your entire timeline. <br>
+Something you could do yourself. But isn't it much quicker to just press one key? :-)
+
+<br>
+<br>
 
 Easy Installation:
 1) Go to menu Edit --> Preferences --> Extensions
